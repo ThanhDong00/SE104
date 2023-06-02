@@ -28,6 +28,7 @@ namespace PhongMachTu
         public LoginWindow()
         {
             InitializeComponent();
+            WindowState = WindowState.Maximized;
             nav = NavigationService.GetNavigationService(this);
         }
 

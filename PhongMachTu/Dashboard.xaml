@@ -4,8 +4,12 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:PhongMachTu"
+        
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
         mc:Ignorable="d"
-        Title="Quản lý phòng mạch" Height="800" Width="1440" WindowStartupLocation="CenterScreen">
+        Title="Quản lý phòng mạch" Height="800" Width="1440" 
+        WindowStartupLocation="CenterScreen"
+        Loaded="MyWindowLoadedHandler">
     <Grid>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="229" />
@@ -19,7 +23,7 @@
                         <Setter Property="Margin" Value="0"/>
                         <Setter Property="FontFamily" Value="Sora"/>
                         <Setter Property="FontSize" Value="17"/>
-                        <Setter Property="Foreground" Value="#969795CC"/>
+                        <Setter Property="Foreground" Value="#969795"/>
                         <Setter Property="Background" Value="Transparent"/>
                         <Setter Property="BorderThickness" Value="0"/>
                         <Setter Property="Height" Value="50"/>
@@ -37,11 +41,12 @@
                             <ColumnDefinition Width="20"></ColumnDefinition>
                             <ColumnDefinition></ColumnDefinition>
                         </Grid.ColumnDefinitions>
-                        <Image Source="Resources/dashboardIcon.png"
-                               Width="16" Height="16"
-                               HorizontalAlignment="Center"
-                               Grid.Column="0"/>
-
+                        <materialDesign:PackIcon Kind="ViewDashboard" 
+                                                 Width="16" Height="16" 
+                                                 HorizontalAlignment="Center" 
+                                                 VerticalAlignment="Center"
+                                                 Grid.Column="0" />
+                        
                         <TextBlock Text="Dashboard" 
                                    Grid.Column="1"
                                    HorizontalAlignment="Left"
@@ -58,10 +63,11 @@
                             <ColumnDefinition Width="20"></ColumnDefinition>
                             <ColumnDefinition></ColumnDefinition>
                         </Grid.ColumnDefinitions>
-                        <Image Source="Resources/patientsIcon.png"
-                               Width="16" Height="16"
-                               HorizontalAlignment="Center"
-                               Grid.Column="0"/>
+                        <materialDesign:PackIcon Kind="AccountGroup" 
+                                                 Width="16" Height="16"
+                                                 HorizontalAlignment="Center"
+                                                 VerticalAlignment="Center"
+                                                 Grid.Column="0"/>
 
                         <TextBlock Text="Patients" 
                                    Grid.Column="1"
@@ -79,10 +85,11 @@
                             <ColumnDefinition Width="20"></ColumnDefinition>
                             <ColumnDefinition></ColumnDefinition>
                         </Grid.ColumnDefinitions>
-                        <Image Source="Resources/appointmentsIcon.png"
-                               Width="16" Height="16"
-                               HorizontalAlignment="Center"
-                               Grid.Column="0"/>
+                        <materialDesign:PackIcon Kind="CalendarMonthOutline" 
+                                                 Width="16" Height="16"
+                                                 HorizontalAlignment="Center"
+                                                 VerticalAlignment="Center"
+                                                 Grid.Column="0"/>
 
                         <TextBlock Text="Appointments" 
                                    Grid.Column="1"
@@ -100,10 +107,11 @@
                             <ColumnDefinition Width="20"></ColumnDefinition>
                             <ColumnDefinition></ColumnDefinition>
                         </Grid.ColumnDefinitions>
-                        <Image Source="Resources\doctorIcon.png"
-                               Width="16" Height="16"
-                               HorizontalAlignment="Center"
-                               Grid.Column="0"/>
+                        <materialDesign:PackIcon Kind="Doctor" 
+                                                 Width="16" Height="16"
+                                                 HorizontalAlignment="Center"
+                                                 VerticalAlignment="Center"
+                                                 Grid.Column="0"/>
 
                         <TextBlock Text="Doctor" 
                                    Grid.Column="1"
@@ -121,10 +129,11 @@
                             <ColumnDefinition Width="20"></ColumnDefinition>
                             <ColumnDefinition></ColumnDefinition>
                         </Grid.ColumnDefinitions>
-                        <Image Source="Resources/billingsIcon.png"
-                               Width="16" Height="16"
-                               HorizontalAlignment="Center"
-                               Grid.Column="0"/>
+                        <materialDesign:PackIcon Kind="ReceiptTextOutline" 
+                                                 Width="16" Height="16"
+                                                 HorizontalAlignment="Center"
+                                                 VerticalAlignment="Center"
+                                                 Grid.Column="0"/>
 
                         <TextBlock Text="Billings" 
                                    Grid.Column="1"
@@ -142,33 +151,13 @@
                             <ColumnDefinition Width="20"></ColumnDefinition>
                             <ColumnDefinition></ColumnDefinition>
                         </Grid.ColumnDefinitions>
-                        <Image Source="Resources/medicineIcon.png"
-                               Width="16" Height="16"
-                               HorizontalAlignment="Center"
-                               Grid.Column="0"/>
+                        <materialDesign:PackIcon Kind="Medication" 
+                                                 Width="16" Height="16"
+                                                 HorizontalAlignment="Center"
+                                                 VerticalAlignment="Center"
+                                                 Grid.Column="0"/>
 
                         <TextBlock Text="Medicine inventory" 
-                                   Grid.Column="1"
-                                   HorizontalAlignment="Left"
-                                   VerticalAlignment="Center"
-                                   Margin="10 0 0 0"/>
-                    </Grid>
-                </Button>
-
-                <!--nút Settings-->
-                <Button x:Name="btnSetting"
-                        Click="btnSetting_Click">
-                    <Grid Width="178" Height="30">
-                        <Grid.ColumnDefinitions>
-                            <ColumnDefinition Width="20"></ColumnDefinition>
-                            <ColumnDefinition></ColumnDefinition>
-                        </Grid.ColumnDefinitions>
-                        <Image Source="Resources/settingsIcon.png"
-                               Width="16" Height="16"
-                               HorizontalAlignment="Center"
-                               Grid.Column="0"/>
-
-                        <TextBlock Text="Settings" 
                                    Grid.Column="1"
                                    HorizontalAlignment="Left"
                                    VerticalAlignment="Center"
@@ -184,12 +173,35 @@
                             <ColumnDefinition Width="20"></ColumnDefinition>
                             <ColumnDefinition></ColumnDefinition>
                         </Grid.ColumnDefinitions>
-                        <Image Source="Resources/reportIcon.png"
-                               Width="16" Height="16"
-                               HorizontalAlignment="Center"
-                               Grid.Column="0"/>
+                        <materialDesign:PackIcon Kind="ChartBoxOutline" 
+                                                 Width="16" Height="16"
+                                                 HorizontalAlignment="Center"
+                                                 VerticalAlignment="Center"
+                                                 Grid.Column="0"/>
 
                         <TextBlock Text="Report" 
+                                   Grid.Column="1"
+                                   HorizontalAlignment="Left"
+                                   VerticalAlignment="Center"
+                                   Margin="10 0 0 0"/>
+                    </Grid>
+                </Button>
+
+                <!--nút Settings-->
+                <Button x:Name="btnSetting"
+                        Click="btnSetting_Click">
+                    <Grid Width="178" Height="30">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="20"></ColumnDefinition>
+                            <ColumnDefinition></ColumnDefinition>
+                        </Grid.ColumnDefinitions>
+                        <materialDesign:PackIcon Kind="Cog" 
+                                                 Width="16" Height="16"
+                                                 HorizontalAlignment="Center"
+                                                 VerticalAlignment="Center"
+                                                 Grid.Column="0"/>
+
+                        <TextBlock Text="Settings" 
                                    Grid.Column="1"
                                    HorizontalAlignment="Left"
                                    VerticalAlignment="Center"

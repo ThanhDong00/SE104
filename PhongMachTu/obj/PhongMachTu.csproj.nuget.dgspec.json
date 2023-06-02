@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Downloads\\PhongMachTu\\PhongMachTu\\PhongMachTu\\PhongMachTu.csproj": {}
+    "D:\\UIT\\2022-2023 Year2\\term2\\SE104.N24.CLC\\PhongMachTu\\PhongMachTu\\PhongMachTu.csproj": {}
   },
   "projects": {
-    "D:\\Downloads\\PhongMachTu\\PhongMachTu\\PhongMachTu\\PhongMachTu.csproj": {
+    "D:\\UIT\\2022-2023 Year2\\term2\\SE104.N24.CLC\\PhongMachTu\\PhongMachTu\\PhongMachTu.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Downloads\\PhongMachTu\\PhongMachTu\\PhongMachTu\\PhongMachTu.csproj",
+        "projectUniqueName": "D:\\UIT\\2022-2023 Year2\\term2\\SE104.N24.CLC\\PhongMachTu\\PhongMachTu\\PhongMachTu.csproj",
         "projectName": "PhongMachTu",
-        "projectPath": "D:\\Downloads\\PhongMachTu\\PhongMachTu\\PhongMachTu\\PhongMachTu.csproj",
+        "projectPath": "D:\\UIT\\2022-2023 Year2\\term2\\SE104.N24.CLC\\PhongMachTu\\PhongMachTu\\PhongMachTu.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "D:\\Downloads\\PhongMachTu\\PhongMachTu\\PhongMachTu\\obj\\",
+        "outputPath": "D:\\UIT\\2022-2023 Year2\\term2\\SE104.N24.CLC\\PhongMachTu\\PhongMachTu\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [
@@ -37,6 +37,10 @@
             "EntityFramework": {
               "target": "Package",
               "version": "[6.2.0, )"
+            },
+            "MaterialDesignThemes": {
+              "target": "Package",
+              "version": "[4.9.0, )"
             }
           }
         }

@@ -54,7 +54,7 @@
         <!--Header-->
 
         <Border Grid.Row="1" BorderThickness="10" CornerRadius="20" Background="#F5F6FA" Padding="15" Margin="25 0 25 40">
-            <TabControl materialDesign:ColorZoneAssist.Mode ="PrimaryLight" SelectionChanged="TabControl_SelectionChanged">
+            <TabControl materialDesign:ColorZoneAssist.Mode ="Dark" SelectionChanged="TabControl_SelectionChanged">
 
                 <TabItem Header="NEW APPOINTMENTS" >
                     <Grid></Grid>

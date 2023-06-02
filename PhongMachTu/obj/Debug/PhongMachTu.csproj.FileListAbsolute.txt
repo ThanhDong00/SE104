@@ -1,0 +1,187 @@
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\PhongMachTu.csproj.AssemblyReference.cache
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\PhongMachTu.csproj.SuggestedBindingRedirects.cache
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\Dashboard.g.cs
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\LoginPages\PageGuiMa.g.cs
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\LoginPages\PageQuenMK.g.cs
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\LoginWindow.g.cs
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\MainWindow.g.cs
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\Pages\Appointments\completeappointmentUC.g.cs
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\Pages\Appointments\newappointmentsUC.g.cs
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\Pages\dashBoardPage.g.cs
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\Pages\doctorPage.g.cs
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\Pages\medicinePage.g.cs
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\Pages\reportPage.g.cs
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\Pages\settingPage.g.cs
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\App.g.cs
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\PhongMachTu_MarkupCompile.cache
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\PhongMachTu_MarkupCompile.lref
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\Pages\Appointments\appointmentsPage.g.cs
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\Pages\Billing\billingPage.g.cs
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\Pages\Patients\AddPatients.g.cs
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\Pages\Patients\DetailPatients.g.cs
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\Pages\Patients\patientsPage.g.cs
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\bin\Debug\PhongMachTu.exe.config
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\bin\Debug\PhongMachTu.exe
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\bin\Debug\PhongMachTu.pdb
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\bin\Debug\MaterialDesignColors.dll
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\bin\Debug\MaterialDesignColors.pdb
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\App.baml
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\Dashboard.baml
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\LoginPages\PageGuiMa.baml
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\LoginPages\PageQuenMK.baml
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\LoginWindow.baml
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\MainWindow.baml
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\Pages\Appointments\appointmentsPage.baml
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\Pages\Appointments\completeappointmentUC.baml
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\Pages\Appointments\newappointmentsUC.baml
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\Pages\Billing\billingPage.baml
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\Pages\dashBoardPage.baml
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\Pages\doctorPage.baml
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\Pages\medicinePage.baml
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\Pages\Patients\AddPatients.baml
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\Pages\Patients\DetailPatients.baml
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\Pages\Patients\patientsPage.baml
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\Pages\reportPage.baml
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\Pages\settingPage.baml
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\PhongMachTu.g.resources
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\PhongMachTu.Properties.Resources.resources
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\PhongMachTu.csproj.GenerateResource.cache
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\PhongMachTu.csproj.CoreCompileInputs.cache
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\PhongMachTu.csproj.CopyComplete
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\PhongMachTu.exe
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\PhongMachTu.pdb
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\bin\Debug\EntityFramework.dll
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\bin\Debug\EntityFramework.SqlServer.dll
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\bin\Debug\EntityFramework.xml
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\bin\Debug\EntityFramework.SqlServer.xml
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\PhongMachTu_Content.g.cs
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\PhongMachTu.csproj.AssemblyReference.cache
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\PhongMachTu.csproj.SuggestedBindingRedirects.cache
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Dashboard.g.cs
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\LoginPages\PageGuiMa.g.cs
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\LoginPages\PageQuenMK.g.cs
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\LoginWindow.g.cs
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\MainWindow.g.cs
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\Appointments\appointmentsPage.g.cs
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\Appointments\completeappointmentUC.g.cs
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\Appointments\newappointmentsUC.g.cs
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\Billing\billingPage.g.cs
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\dashBoardPage.g.cs
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\Employees\Employee_MainPage.g.cs
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\medicinePage.g.cs
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\Patients\AddPatients.g.cs
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\Patients\DetailPatients.g.cs
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\Patients\patientsPage.g.cs
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\reportPage.g.cs
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\settingPage.g.cs
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\App.g.cs
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\PhongMachTu_MarkupCompile.cache
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\PhongMachTu_MarkupCompile.lref
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\PhongMachTu.exe
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\PhongMachTu.pdb
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\bin\Debug\PhongMachTu.exe.config
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\bin\Debug\PhongMachTu.exe
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\bin\Debug\PhongMachTu.pdb
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\bin\Debug\EntityFramework.dll
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\bin\Debug\MaterialDesignColors.dll
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\bin\Debug\MaterialDesignColors.pdb
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\App.baml
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Dashboard.baml
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\LoginPages\PageGuiMa.baml
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\LoginPages\PageQuenMK.baml
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\LoginWindow.baml
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\MainWindow.baml
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\Appointments\appointmentsPage.baml
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\Appointments\completeappointmentUC.baml
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\Appointments\newappointmentsUC.baml
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\Billing\billingPage.baml
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\dashBoardPage.baml
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\Employees\Employee_MainPage.baml
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\medicinePage.baml
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\Patients\AddPatients.baml
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\Patients\DetailPatients.baml
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\Patients\patientsPage.baml
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\reportPage.baml
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\settingPage.baml
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\PhongMachTu.g.resources
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\PhongMachTu.Properties.Resources.resources
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\PhongMachTu.csproj.GenerateResource.cache
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\PhongMachTu.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\PhongMachTu.csproj.CopyComplete
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\Employees\NewEmployee.g.cs
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\Employees\NewEmployee.baml
+D:\Downloads\PhongMachTu\PhongMachTu\PhongMachTu\bin\Debug\PhongMachTu.exe.config
+D:\Downloads\PhongMachTu\PhongMachTu\PhongMachTu\bin\Debug\PhongMachTu.exe
+D:\Downloads\PhongMachTu\PhongMachTu\PhongMachTu\bin\Debug\PhongMachTu.pdb
+D:\Downloads\PhongMachTu\PhongMachTu\PhongMachTu\bin\Debug\EntityFramework.SqlServer.dll
+D:\Downloads\PhongMachTu\PhongMachTu\PhongMachTu\bin\Debug\EntityFramework.dll
+D:\Downloads\PhongMachTu\PhongMachTu\PhongMachTu\bin\Debug\MaterialDesignColors.dll
+D:\Downloads\PhongMachTu\PhongMachTu\PhongMachTu\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Downloads\PhongMachTu\PhongMachTu\PhongMachTu\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\Downloads\PhongMachTu\PhongMachTu\PhongMachTu\bin\Debug\MaterialDesignColors.pdb
+D:\Downloads\PhongMachTu\PhongMachTu\PhongMachTu\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Downloads\PhongMachTu\PhongMachTu\PhongMachTu\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Downloads\PhongMachTu\PhongMachTu\PhongMachTu\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\Downloads\PhongMachTu\PhongMachTu\PhongMachTu\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\Downloads\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\PhongMachTu.csproj.AssemblyReference.cache
+D:\Downloads\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\PhongMachTu.csproj.SuggestedBindingRedirects.cache
+D:\Downloads\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Dashboard.g.cs
+D:\Downloads\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\LoginPages\PageGuiMa.g.cs
+D:\Downloads\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\LoginPages\PageQuenMK.g.cs
+D:\Downloads\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\LoginWindow.g.cs
+D:\Downloads\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\MainWindow.g.cs
+D:\Downloads\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\Appointments\appointmentsPage.g.cs
+D:\Downloads\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\Appointments\completeappointmentUC.g.cs
+D:\Downloads\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\Appointments\newappointmentsUC.g.cs
+D:\Downloads\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\Billing\billingPage.g.cs
+D:\Downloads\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\dashBoardPage.g.cs
+D:\Downloads\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\Employees\Employee_MainPage.g.cs
+D:\Downloads\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\Employees\NewEmployee.g.cs
+D:\Downloads\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\medicinePage.g.cs
+D:\Downloads\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\Patients\AddPatients.g.cs
+D:\Downloads\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\Patients\DetailPatients.g.cs
+D:\Downloads\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\Patients\patientsPage.g.cs
+D:\Downloads\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\reportPage.g.cs
+D:\Downloads\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\settingPage.g.cs
+D:\Downloads\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\App.g.cs
+D:\Downloads\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\PhongMachTu_MarkupCompile.cache
+D:\Downloads\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\PhongMachTu_MarkupCompile.lref
+D:\Downloads\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\App.baml
+D:\Downloads\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Dashboard.baml
+D:\Downloads\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\LoginPages\PageGuiMa.baml
+D:\Downloads\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\LoginPages\PageQuenMK.baml
+D:\Downloads\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\LoginWindow.baml
+D:\Downloads\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\MainWindow.baml
+D:\Downloads\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\Appointments\appointmentsPage.baml
+D:\Downloads\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\Appointments\completeappointmentUC.baml
+D:\Downloads\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\Appointments\newappointmentsUC.baml
+D:\Downloads\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\Billing\billingPage.baml
+D:\Downloads\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\dashBoardPage.baml
+D:\Downloads\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\Employees\Employee_MainPage.baml
+D:\Downloads\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\Employees\NewEmployee.baml
+D:\Downloads\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\medicinePage.baml
+D:\Downloads\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\Patients\AddPatients.baml
+D:\Downloads\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\Patients\DetailPatients.baml
+D:\Downloads\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\Patients\patientsPage.baml
+D:\Downloads\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\reportPage.baml
+D:\Downloads\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\settingPage.baml
+D:\Downloads\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\PhongMachTu.g.resources
+D:\Downloads\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\PhongMachTu.Properties.Resources.resources
+D:\Downloads\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\PhongMachTu.csproj.GenerateResource.cache
+D:\Downloads\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\PhongMachTu.csproj.CoreCompileInputs.cache
+D:\Downloads\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\PhongMachTu.csproj.CopyComplete
+D:\Downloads\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\PhongMachTu.exe
+D:\Downloads\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\PhongMachTu.pdb
